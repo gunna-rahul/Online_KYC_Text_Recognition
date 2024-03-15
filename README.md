@@ -1,3 +1,5 @@
+https://github.com/gunna-rahul/Online_KYC_Text_Recognition/assets/122821830/887aceb6-d8db-4c1e-9f88-178a79b72c43
+
 # Tesseract OCR
 
 [![Build status](https://ci.appveyor.com/api/projects/status/miah0ikfsf0j3819/branch/master?svg=true)](https://ci.appveyor.com/project/zdenop/tesseract/)
