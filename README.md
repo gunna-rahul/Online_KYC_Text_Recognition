@@ -1,4 +1,5 @@
-https://github.com/gunna-rahul/Online_KYC_Text_Recognition/assets/122821830/887aceb6-d8db-4c1e-9f88-178a79b72c43
+
+https://github.com/gunna-rahul/Online_KYC_Text_Recognition/assets/122821830/f864d5e7-da04-4d0c-99f8-4cb401f51117
 
 # Tesseract OCR
 
